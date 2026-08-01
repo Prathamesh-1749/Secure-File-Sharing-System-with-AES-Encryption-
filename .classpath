@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.1">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/aspectjrt-1.9.21.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/aspectjweaver-1.9.21.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/micrometer-commons-1.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/micrometer-core-1.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/micrometer-observation-1.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-aop-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-aspects-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-beans-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-context-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-context-indexer-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-context-support-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-core-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-core-test-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-expression-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-instrument-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-jcl-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-jdbc-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-jms-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-messaging-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-orm-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-oxm-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-r2dbc-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-test-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-tx-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-web-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-webflux-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-webmvc-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/Spring6/Spring6/spring-framework-6.0.0-SNAPSHOT/libs/spring-websocket-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/externaljar/springcompletfinal/ojdbc11.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
